@@ -48,7 +48,13 @@
 </div>
 
 ###
+<div align="center">
 
-<h3 align="left">🔥   My Stats :</h3>
+![stats graph](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaopedroCODES&show_icons=true&theme=tokyonight)
+
+![languages graph](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoaopedroCODES&layout=compact&theme=tokyonight)
+
+</div>
+
 
 ###
