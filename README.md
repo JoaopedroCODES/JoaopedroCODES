@@ -42,20 +42,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
+
 <div align="center">
-
-![stats graph](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaopedroCODES&show_icons=true&theme=tokyonight)
-
-![languages graph](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoaopedroCODES&layout=compact&theme=tokyonight)
-
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaopedroCODES&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoaopedroCODES&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
 </div>
-
 
 ###
 
