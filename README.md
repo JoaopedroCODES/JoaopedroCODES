@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Me chamo João Pedro Holanda, tenho 20 anos e sou natural do Maranhão. Atualmente, curso Ciência da Computação na UNIP (Universidade Paulista).<br><br>Sou desenvolvedor Full Stack em formação, com foco em backend, trabalhando com Python, APIs REST e banco de dados. Busco constantemente evoluir e desenvolver soluções práticas, eficientes e bem estruturadas.</p>
+<p align="left">Me chamo João Pedro Holanda Santos, tenho 20 anos e sou natural do Maranhão. Atualmente, curso Ciência da Computação na UNIP (Universidade Paulista).<br><br>Sou desenvolvedor Full Stack em formação, com foco em backend, trabalhando com Python, APIs REST e banco de dados. Busco constantemente evoluir e desenvolver soluções práticas, eficientes e bem estruturadas.</p>
 
 ###
 
